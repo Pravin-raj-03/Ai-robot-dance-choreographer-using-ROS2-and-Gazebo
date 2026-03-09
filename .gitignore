@@ -1,3 +1,23 @@
-.vscode/settings.json
-.vscode/c_cpp_properties.json
+**/build/
+**/install/
+**/log/
+.venv/
+
+# Presentations and PDFs
+*.tex
+*.pdf
+*.aux
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.log
+
+# Python cache
+__pycache__/
 *.pyc
+
+# IDEs
+.vscode/
+.idea/
