@@ -10,7 +10,7 @@ A self-balancing, dancing humanoid robot simulated in Gazebo Harmonic with ROS2 
 - **Music Synchronization**: Built-in beat detection using `librosa` and playback via `pygame` to make the robot dance to the rhythm.
 
 ## Media
-![Gazebo Demo](gazebo_demo.png)
+![Gazebo Demo](Screenshot from 2026-03-09 20-06-11.png)
 ![GUI Demo](gui_demo.png)
 
 ## System Architecture
